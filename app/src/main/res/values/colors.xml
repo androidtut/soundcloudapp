@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="bgcolor">#181B1E</color>
     <color name="inputcolor">#1F2225</color>
+    <color name="bottomnavcolor">#0C0F12</color>
 </resources>
